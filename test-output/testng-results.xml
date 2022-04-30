@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31968" started-at="2022-03-17T14:51:21Z" finished-at="2022-03-17T14:51:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31968" started-at="2022-03-17T14:51:21Z" finished-at="2022-03-17T14:51:53Z">
+      <class name="org.suit.FinalSelectionPage">
+        <test-method status="PASS" signature="sample3()[pri:0, instance:org.suit.FinalSelectionPage@d041cf]" name="sample3" is-config="true" duration-ms="27" started-at="2022-03-17T20:21:21Z" finished-at="2022-03-17T20:21:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample3 -->
+        <test-method status="PASS" signature="sample()[pri:0, instance:org.suit.FinalSelectionPage@d041cf]" name="sample" is-config="true" duration-ms="1" started-at="2022-03-17T20:21:41Z" finished-at="2022-03-17T20:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+        <test-method status="PASS" signature="pojoHotelFinalSelectionPage()[pri:0, instance:org.suit.FinalSelectionPage@d041cf]" name="pojoHotelFinalSelectionPage" duration-ms="1841" started-at="2022-03-17T20:21:41Z" finished-at="2022-03-17T20:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pojoHotelFinalSelectionPage -->
+        <test-method status="PASS" signature="sample1()[pri:0, instance:org.suit.FinalSelectionPage@d041cf]" name="sample1" is-config="true" duration-ms="0" started-at="2022-03-17T20:21:43Z" finished-at="2022-03-17T20:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample1 -->
+        <test-method status="PASS" signature="sample4()[pri:0, instance:org.suit.FinalSelectionPage@d041cf]" name="sample4" is-config="true" duration-ms="2" started-at="2022-03-17T20:21:53Z" finished-at="2022-03-17T20:21:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample4 -->
+      </class> <!-- org.suit.FinalSelectionPage -->
+      <class name="org.suit.PaymentPage">
+        <test-method status="PASS" signature="sample()[pri:0, instance:org.suit.PaymentPage@129a8472]" name="sample" is-config="true" duration-ms="0" started-at="2022-03-17T20:21:43Z" finished-at="2022-03-17T20:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+        <test-method status="PASS" signature="pojoPaymentPage()[pri:0, instance:org.suit.PaymentPage@129a8472]" name="pojoPaymentPage" duration-ms="9667" started-at="2022-03-17T20:21:43Z" finished-at="2022-03-17T20:21:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pojoPaymentPage -->
+        <test-method status="PASS" signature="sample1()[pri:0, instance:org.suit.PaymentPage@129a8472]" name="sample1" is-config="true" duration-ms="5" started-at="2022-03-17T20:21:53Z" finished-at="2022-03-17T20:21:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample1 -->
+      </class> <!-- org.suit.PaymentPage -->
+      <class name="org.suit.HotelSelectionPage">
+        <test-method status="PASS" signature="sample()[pri:0, instance:org.suit.HotelSelectionPage@3cb5cdba]" name="sample" is-config="true" duration-ms="1" started-at="2022-03-17T20:21:36Z" finished-at="2022-03-17T20:21:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+        <test-method status="PASS" signature="pojoHotelSelectionPage()[pri:0, instance:org.suit.HotelSelectionPage@3cb5cdba]" name="pojoHotelSelectionPage" duration-ms="5141" started-at="2022-03-17T20:21:36Z" finished-at="2022-03-17T20:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pojoHotelSelectionPage -->
+        <test-method status="PASS" signature="sample1()[pri:0, instance:org.suit.HotelSelectionPage@3cb5cdba]" name="sample1" is-config="true" duration-ms="1" started-at="2022-03-17T20:21:41Z" finished-at="2022-03-17T20:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample1 -->
+      </class> <!-- org.suit.HotelSelectionPage -->
+      <class name="org.suit.LoginPage">
+        <test-method status="PASS" signature="classStared()[pri:0, instance:org.suit.LoginPage@4cdbe50f]" name="classStared" is-config="true" duration-ms="11441" started-at="2022-03-17T20:21:21Z" finished-at="2022-03-17T20:21:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classStared -->
+        <test-method status="PASS" signature="pojoLoginPage()[pri:0, instance:org.suit.LoginPage@4cdbe50f]" name="pojoLoginPage" duration-ms="3790" started-at="2022-03-17T20:21:32Z" finished-at="2022-03-17T20:21:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pojoLoginPage -->
+        <test-method status="PASS" signature="beforeLoginPage()[pri:0, instance:org.suit.LoginPage@4cdbe50f]" name="beforeLoginPage" is-config="true" duration-ms="0" started-at="2022-03-17T20:21:32Z" finished-at="2022-03-17T20:21:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeLoginPage -->
+        <test-method status="PASS" signature="afterLoginPage()[pri:0, instance:org.suit.LoginPage@4cdbe50f]" name="afterLoginPage" is-config="true" duration-ms="2" started-at="2022-03-17T20:21:36Z" finished-at="2022-03-17T20:21:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterLoginPage -->
+        <test-method status="PASS" signature="classFinished()[pri:0, instance:org.suit.LoginPage@4cdbe50f]" name="classFinished" is-config="true" duration-ms="0" started-at="2022-03-17T20:21:36Z" finished-at="2022-03-17T20:21:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classFinished -->
+      </class> <!-- org.suit.LoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
